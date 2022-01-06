@@ -1,4 +1,4 @@
-from alpaca.ast import *
+from alpaca.alp_ast import *
 from alpaca.scanner import Scanner
 
 """
